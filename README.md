@@ -13,7 +13,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 
 ## 🛠️ Technologies & Tools:
 
-[Insert Icons or Badges of your tech stack here: Node.js, React, etc.]
+[]
 
 ## 💡 Fun Fact:
 
