@@ -14,7 +14,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 ## 🛠️ Technologies & Tools:
 
 ![node.js](
-https://w7.pngwing.com/pngs/56/223/png-transparent-node-js-javascript-computer-icons-github-angle-text-logo.png
+https://cdn-icons-png.flaticon.com/512/919/919825.png
 )
 
 ## 💡 Fun Fact:
