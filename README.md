@@ -15,7 +15,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 
 
 <img src ="https://cdn-icons-png.flaticon.com/512/919/919825.png" style ="height:50px; width:50px"/>
-<img src ="https://www.iconarchive.com/download/i106224/papirus-team/papirus-apps/python.ico" style ="height:50px; width:50px"/
+<img src="https://www.iconarchive.com/download/i106224/papirus-team/papirus-apps/python.ico" style ="height:50px; width:50px"/>
 
 
 ## 💡 Fun Fact:
