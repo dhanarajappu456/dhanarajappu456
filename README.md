@@ -24,7 +24,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 ## 📫 How to reach me:
 
 
-- LinkedIn: [Your LinkedIn Name](https://in.linkedin.com/in/dhanaraj-appu-7a6147138)
-- Personal Site:(https://dhanarajappu456.github.io/website/)
+- LinkedIn: [LinkedIn](https://in.linkedin.com/in/dhanaraj-appu-7a6147138)
+- Website:[Personal Portfolio](https://dhanarajappu456.github.io/website/)
 
 
