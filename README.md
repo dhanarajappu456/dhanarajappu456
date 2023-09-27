@@ -13,7 +13,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 
 ## 🛠️ Technologies & Tools:
 
-(https://www.pngwing.com/en/free-png-amxds)
+![node.js](https://www.pngwing.com/en/free-png-amxds)
 
 ## 💡 Fun Fact:
 
