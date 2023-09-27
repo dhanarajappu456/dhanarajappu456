@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dhanaraj!
 
-![Cool Developer GIF](URL_TO_YOUR_CHOSEN_GIF)
+![Cool Developer GIF](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
 
 I'm a Full Stack Developer who loves turning complex problems into simple, beautiful, and intuitive solutions. With a strong foundation in DSA (Data Structures and Algorithms), I've always been passionate about understanding the core concepts of tech, and then teaching them to others.
 
@@ -19,14 +19,12 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 
 > I can turn caffeine into code. ☕➡️💻
 
-![Coding GIF](URL_TO_YOUR_ANOTHER_CHOSEN_GIF)
+![Coding GIF](https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif?cid=82a1493b9l9picqjmauu071im5ps77fq7a7kp5bjd671dsmg&ep=v1_gifs_related&rid=200w.gif&ct=s)
 
 ## 📫 How to reach me:
 
-- Twitter: [@your_handle](https://twitter.com/your_handle)
-- LinkedIn: [Your LinkedIn Name](https://www.linkedin.com/in/your-linkedin-id/)
-- Personal Site: [www.yourwebsite.com](http://www.yourwebsite.com/)
 
-Remember to replace "URL_TO_YOUR_CHOSEN_GIF" with the actual URLs of GIFs you find cool and relevant. Websites like [GIPHY](https://giphy.com/) are good sources for finding GIFs. You can also use shields and badges from [Shields.io](https://shields.io/) to represent technologies and tools in a visually appealing manner.
+- LinkedIn: [Your LinkedIn Name](https://in.linkedin.com/in/dhanaraj-appu-7a6147138)
+- Personal Site: [www.yourwebsite.com]([http://www.yourwebsite.com/](https://dhanarajappu456.github.io/website/))
 
-Copy and paste the markdown content to your GitHub profile README, and remember to customize it further as per your needs!
+
