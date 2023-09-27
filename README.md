@@ -13,9 +13,8 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 
 ## 🛠️ Technologies & Tools:
 
-![node.js](
-https://cdn-icons-png.flaticon.com/512/919/919825.png
-)
+
+<img src ="https://cdn-icons-png.flaticon.com/512/919/919825.png" style ="height:10px; width:10px"/>
 
 ## 💡 Fun Fact:
 
