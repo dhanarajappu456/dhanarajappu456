@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dhanaraj!
 
-![Cool Developer GIF](https://i.gifer.com/5eKX.mp4)
+![Cool Developer GIF](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
 I'm a Full Stack Developer who loves turning complex problems into simple, beautiful, and intuitive solutions. With a strong foundation in DSA (Data Structures and Algorithms), I've always been passionate about understanding the core concepts of tech, and then teaching them to others.
 
