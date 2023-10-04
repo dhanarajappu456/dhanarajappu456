@@ -23,7 +23,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 > I can turn caffeine into code. ☕➡️💻
 
 
-<img sr= "https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif?cid=82a1493b9l9picqjmauu071im5ps77fq7a7kp5bjd671dsmg&ep=v1_gifs_related&rid=200w.gif&ct=s"   style ="height:50px; width:50px"/>
+<img src= "https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif?cid=82a1493b9l9picqjmauu071im5ps77fq7a7kp5bjd671dsmg&ep=v1_gifs_related&rid=200w.gif&ct=s"   style ="height:50px; width:50px"/>
 ## 📫 How to reach me:
 
 
