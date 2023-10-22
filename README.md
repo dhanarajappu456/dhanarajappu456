@@ -21,7 +21,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 <span><img src ="https://www.svgrepo.com/show/331488/mongodb.svg" style ="height:50px; width:50px"> 
 <img src ="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" style ="height:50px; width:50px" > 
 <img src ="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" style ="height:50px; width:50px" > 
-<img src ="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style ="height:50px; width:50px"> <img src ="https://cdn-icons-png.flaticon.com/512/919/919825.png" style ="height:50px; width:50px"/>
+<img src ="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style ="height:50px; width:50px"> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style ="height:50px; width:50px"/>
 <img src = "https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png"  style ="height:50px; width:50px"></span>
 
