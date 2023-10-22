@@ -13,7 +13,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 
 ## 🛠️ Technologies & Tools:
 
-<span><img src ="https://cdn-icons-png.flaticon.com/512/919/919825.png" style ="height:50px; width:50px"/>
+<span><img src = " https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png" style ="height:50px; width:50px"  ><img src ="https://cdn-icons-png.flaticon.com/512/919/919825.png" style ="height:50px; width:50px"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style ="height:50px; width:50px"/>
 <img src = "https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png"  style ="height:50px; width:50px"></span>
 
