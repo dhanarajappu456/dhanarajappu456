@@ -24,7 +24,7 @@ I'm a Full Stack Developer who loves turning complex problems into simple, beaut
 <img src ="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style ="height:50px; width:50px"> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style ="height:50px; width:50px"/>
 <img src = "https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png"  style ="height:50px; width:50px"></span>
-<img src = "https://studysection.com/blog/wp-content/uploads/2020/08/react-native-logo.png"></span>
+<img src = "https://studysection.com/blog/wp-content/uploads/2020/08/react-native-logo.png" style ="height:150px; width:450px"></span>
 
 
 ## 💡 Fun Fact:
