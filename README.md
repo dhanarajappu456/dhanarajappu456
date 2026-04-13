@@ -88,8 +88,6 @@ Currently targeting **Google · Microsoft . Meta · Amazon .** and other top-tie
 - Built with **React + TypeScript + Web Animations API**
 - Used as a teaching tool for competitive programming prep
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanarajappu456/sorting-visualiser)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white)](#)
 
 ---
 
@@ -102,7 +100,7 @@ Currently targeting **Google · Microsoft . Meta · Amazon .** and other top-tie
 - Tracks application status in a **dashboard built with React**
 - CI/CD deployed on **Kubernetes** — runs 24/7 unattended
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanarajappu456/jobpilot)
+
 
 ---
 
