@@ -19,7 +19,7 @@ I'm a software engineer obsessed with building systems that **scale, survive, an
 
 From cross-platform mobile apps to distributed backend infrastructure — I work across the full stack with a deep focus on **microservice architecture, AI/ML integration, and DevOps at scale**. On the side, I'm a competitive programmer who treats algorithmic challenges the way athletes treat training: relentlessly.
 
-Currently targeting **Meta · Amazon** and other top-tier engineering orgs.
+Currently targeting **Google · Microsoft . Meta · Amazon .** and other top-tier engineering orgs.
 
 ---
 
