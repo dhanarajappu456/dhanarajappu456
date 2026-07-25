@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════ HEADER WAVE ═══════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dhanaraj%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Event-Driven%20Systems%20%E2%80%A2%20AI%2FML%20Researcher%20%E2%80%A2%20Built%20for%20Scale&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dhanaraj%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════ TYPING INTRO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Dhanaraj+S+%F0%9F%91%8B;Result-Driven+%E2%80%A2+Event-Driven+Software+Engineer;Distributed+Systems+Architect+%7C+Kafka+%7C+CQRS+%7C+Saga;Published+NLP+Researcher+%40+Dublin+City+University;Full-Stack+%E2%80%A2+Mobile+%E2%80%A2+DevOps+%E2%80%A2+Agentic+AI+Builder;LeetCode+Hard+Grinder+%7C+MAANG-bound+%F0%9F%8E%AF;Ship+for+Impact.+Design+for+Failure.+Scale+Without+Mercy." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Dhanaraj+S+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+Software+Developer+%E2%80%A2+AI+Enthusiast;Result-Driven+%E2%80%A2+Event-Driven+Systems+Builder;Distributed+Systems+Architect+%7C+Kafka+%7C+CQRS+%7C+Saga;Published+NLP+Researcher+%40+Dublin+City+University;Full-Stack+%E2%80%A2+Mobile+%E2%80%A2+DevOps+%E2%80%A2+Agentic+AI+Builder;LeetCode+Hard+Grinder+%7C+MAANG-bound+%F0%9F%8E%AF;Ship+for+Impact.+Design+for+Failure.+Scale+Without+Mercy." alt="Typing SVG" />
 
 <br/>
 
